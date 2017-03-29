@@ -1,0 +1,1 @@
+ALTER TABLE `oc_product` ADD `currency_id` INT(1) NOT NULL DEFAULT '2' AFTER `tax_class_id`;
